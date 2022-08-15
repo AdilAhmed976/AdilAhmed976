@@ -32,8 +32,11 @@
 <a href= "https://www.typescriptlang.org/" target="_blank" rel="styled"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="styled" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" alt="adilahmed976" /></p>
+<!--  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" alt="adilahmed976" /> </p>   -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en" alt="adilahmed976" /></p>
+| <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" /></a> |
+| ------------- | ------------- |
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en" alt="adilahmed976" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilahmed976&" alt="adilahmed976" /></p>
