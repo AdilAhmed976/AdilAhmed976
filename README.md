@@ -34,7 +34,7 @@
 
 <!--  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" alt="adilahmed976" /> </p>   -->
 
-| <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" /></a> |
+| <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en" alt="adilahmed976" /></p> -->
