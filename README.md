@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ES6, React, Redux, MongoDb, Node **
 
-- 📫 How to reach me **HTML, JS & CSS**
+- 📫 How to reach me : adilahmedah976@gmail.com
 
 - ⚡ Fun fact **I think I'm good in Designing**
 
