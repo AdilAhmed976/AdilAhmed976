@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think I'm good in Designing**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> Linked In: https://www.linkedin.com/in/adil-ahmed-522a0b21a/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
