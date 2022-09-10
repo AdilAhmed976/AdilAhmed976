@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning || JavaScript, ES6, React, Redux, MongoDb, Node  ||
+- 🌱 I’m currently learning || JavaScript, ES6, React, Redux, MongoDb, Node JS  ||
 
 - 📫 How to reach me : adilahmedah976@gmail.com
 
