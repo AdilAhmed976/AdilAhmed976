@@ -30,12 +30,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://styled-components.com" target="_blank" rel="styled"> <img src= "https://styled-components.com/logo.png" alt="styled" width="40" height="40"/> </a>
 <a href= "https://chakra-ui.com/" target="_blank" rel="styled"> <img src= "https://www.coffeeclass.io/logos/chakra-ui.png" alt="styled" width="40" height="40"/> </a>
-<a href= "https://www.typescriptlang.org/" target="_blank" rel="styled"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="styled" width="40" height="40"/> </a> 
+<a href= "https://www.typescriptlang.org/" target="_blank" rel="styled"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="styled" width="40" height="40"/> </a>
+ <a href="https://styled-components.com" target="_blank" rel="styled"> <img src= "https://i.imgur.com/m8Zi7BQ.png" alt="styled" width="40" height="40"/> </a>
+ <a href="https://styled-components.com" target="_blank" rel="styled"> <img src= "https://styled-components.com/logo.png" alt="styled" width="40" height="40"/> </a>
+ <a href="https://styled-components.com" target="_blank" rel="styled"> <img src= "https://styled-components.com/logo.png" alt="styled" width="40" height="40"/> </a>
+ <a href="https://styled-components.com" target="_blank" rel="styled"> <img src= "https://styled-components.com/logo.png" alt="styled" width="40" height="40"/> </a>
 </p>
 
-<!--  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" alt="adilahmed976" /> </p>   -->
 
-| <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" /></a> |
+| <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Adil github stats" /></a> | <a href="https://github.com/adilahmed976/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=adilahmed976&show_icons=true&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilahmed976&show_icons=true&locale=en" alt="adilahmed976" /></p> -->
