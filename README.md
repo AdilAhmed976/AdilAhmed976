@@ -13,11 +13,12 @@
 
 - ⚡ Fun fact **I think I'm good in Designing**
 
-<h3 align="left">Connect with me:</h3>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<p align="left"> ⭐ <a href= "https://www.linkedin.com/in/adil-ahmed-522a0b21a/" target="_blank" > LinkedIn </a> 
-<p align="left"> ⭐ <a href= "https://www.adilahmed.in/" target="_blank" > Portfolio </a> 
+<<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/adil-ahmed-522a0b21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
