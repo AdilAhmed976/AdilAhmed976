@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adil Ahmed Qureshi</h1>
+<h1 align="center">Hi 👋, I'm Adil Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilahmed976&label=Profile%20views&color=0e75b6&style=flat" alt="adilahmed976" /> </p>
