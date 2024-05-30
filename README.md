@@ -11,7 +11,7 @@
  
 - 📫 How to reach me : adilahmedah976@gmail.com
  
-- <a href="[https://styled-components.com](https://drive.google.com/file/d/1UNzOI16xoD0ieay0vM-B0GEE32z27f-C/view)" target="_blank" rel="styled">Resume</a>
+- <p align="left"> <a href="https://drive.google.com/file/d/1UNzOI16xoD0ieay0vM-B0GEE32z27f-C/view" target="blank">Resume</a> </p>
 
 - ⚡ Fun fact **I think I'm good in Designing**
 
