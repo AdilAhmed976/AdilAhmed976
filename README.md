@@ -13,6 +13,11 @@
 - 📫 Reach me at **adilahmedah976@gmail.com**
 - 🌐 Portfolio: **[portfolio-adilahmed976.vercel.app](https://portfolio-adilahmed976.vercel.app/)**
 - ⚡ Fun fact: I get as much satisfaction from a clean, pixel-perfect UI as from clean code
+- <p align="start">
+  <a href="https://drive.google.com/uc?export=download&id=1UNzOI16xoD0ieay0vM-B0GEE32z27f-C">
+    <img src="https://img.shields.io/badge/Download%20Resume-success?style=for-the-badge" alt="Download Resume">
+  </a>
+</p>
 
 ### 🔗 Connect with me
 <p align="left">
