@@ -62,5 +62,3 @@ Also using **Redux Toolkit**, **Zustand**, and **shadcn/ui** in recent projects.
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilahmed976&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-
